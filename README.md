@@ -36,11 +36,4 @@ A good start is successful!
 
 ## 二、技术博客必备：代码块
 以下是终端搭建博客的核心命令：
-```powershell
-
-# 初始化 Hexo 博客
-hexo init my-hexo-blog
-# 进入博客文件夹
-cd my-hexo-blog
-# 安装依赖
-npm install
+print("Hello World!");
