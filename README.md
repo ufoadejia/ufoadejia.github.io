@@ -1,3 +1,8 @@
+---
+title: "Markdown 入门教程：轻松写好博客内容"
+date: 2024-05-21 19:00:00
+---
+
 # 西风漂流的成长小屋
 ## This is a site to place my thoughts and studying process.
 A good start is successful!
